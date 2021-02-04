@@ -1,7 +1,0 @@
-com\feedback\services\FeedbackServiceImpl.class
-com\feedback\repository\entity\FeedbackEntity.class
-com\feedback\repository\entity\FeedbackEntityCrudRepository.class
-com\feedback\FeedbackApplication.class
-com\feedback\controller\FeedbackController.class
-com\feedback\services\FeedbackService.class
-com\feedback\ServletInitializer.class
